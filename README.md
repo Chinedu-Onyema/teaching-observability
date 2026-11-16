@@ -1,1 +1,1 @@
-# teaching-observability-with-codespaces
+# teaching-observability
